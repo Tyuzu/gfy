@@ -1,5 +1,8 @@
-# gfy
-Gfycat replacement
+# Gfycat replacement
+
+Some code is perfect, some is crap. You are expected to fix it.
+Some design is amazing, some is cringy. You should try to be creative. 
+Let me know if you have any 'issues'.
 
 ## Softwares needed to run this
 
